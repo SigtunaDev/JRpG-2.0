@@ -1,3 +1,3 @@
 # JRpG-2.0
 
-Development by Sigtuan#4619
+Developed by Sigtuan#4619
